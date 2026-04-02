@@ -8,7 +8,7 @@ If you have git installed on your machine follow these steps -
 
 *   Create a new folder on your Desktop or anyplace you wish.
 *   Now go inside the folder and open terminal/VsCode in this folder.
-*   Copy this link - [Link](https://github.com/shubhamByte/Image_Tagging_and_Retrival.git)
+*   Copy this link - [Link](https://github.com/Hemangi-Chouhan/Image_Tagging_and_Retrival.git.git)
 *   Now, in the terminal write -
 
     git clone "and paste the above copied link here"
@@ -16,7 +16,7 @@ If you have git installed on your machine follow these steps -
 
 If you don’t have git installed, follow these steps -
 
-*   Visit the link - [Link](https://github.com/shubhamByte/Image_Tagging_and_Retrival.git)
+*   Visit the link - [Link](https://github.com/Hemangi-Chouhan/Image_Tagging_and_Retrival.git.git)
 *   Click on “Code ( highlighted in green color) " and in the dropdown menu click on " Download Zip”
 *   Extract the Zip file and open terminal/VsCode in this folder.
 
